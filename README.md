@@ -1,2 +1,2 @@
-# ProxifyAPI
- A rust application useful for when you want to proxy multiple API calls.
+# swaplens-api
+ An exchange aggregator API

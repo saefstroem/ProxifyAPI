@@ -1,0 +1,12 @@
+{
+    "apiname":{
+        "identifier":"apiname",
+        "api_key":"test_1234567890",
+        "metadata":"any metadata"
+    },
+    "apiname2":{
+        "identifier":"apiname2",
+        "api_key":"test_1234567890",
+        "metadata":"any metadata"
+    }
+}
