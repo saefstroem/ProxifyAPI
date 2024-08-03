@@ -1144,6 +1144,25 @@ dependencies = [
 ]
 
 [[package]]
+name = "proxifyapi"
+version = "0.1.0"
+dependencies = [
+ "axum",
+ "axum-server",
+ "base64",
+ "bincode",
+ "cookie",
+ "env_logger",
+ "log",
+ "reqwest",
+ "serde",
+ "serde_json",
+ "sled",
+ "tokio",
+ "tower-http",
+]
+
+[[package]]
 name = "quote"
 version = "1.0.36"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1495,25 +1514,6 @@ name = "subtle"
 version = "2.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "13c2bddecc57b384dee18652358fb23172facb8a2c51ccc10d74c157bdea3292"
-
-[[package]]
-name = "swaplens-api"
-version = "0.1.0"
-dependencies = [
- "axum",
- "axum-server",
- "base64",
- "bincode",
- "cookie",
- "env_logger",
- "log",
- "reqwest",
- "serde",
- "serde_json",
- "sled",
- "tokio",
- "tower-http",
-]
 
 [[package]]
 name = "syn"
