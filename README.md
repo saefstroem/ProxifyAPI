@@ -25,7 +25,7 @@ Create a `apis.json` file in the root of the repository with the following forma
         "metadata":"any metadata"
     }
 }
-``
+```
 
 To use the application, you can run the binary with the following command from the root of the repository:
 
